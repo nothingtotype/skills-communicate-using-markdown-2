@@ -11,3 +11,8 @@ text here
 
 let myvar = "123"
 ```
+
+# checklist example
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
