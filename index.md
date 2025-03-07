@@ -5,3 +5,9 @@ text here
 
 # test image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# code example
+```javascript
+
+let myvar = "123"
+```
